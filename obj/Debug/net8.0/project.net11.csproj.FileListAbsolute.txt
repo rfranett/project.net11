@@ -12,3 +12,4 @@ C:\Users\w10\OneDrive\Área de Trabalho\project.net11\obj\Debug\net8.0\refint\pr
 C:\Users\w10\OneDrive\Área de Trabalho\project.net11\obj\Debug\net8.0\project.net11.pdb
 C:\Users\w10\OneDrive\Área de Trabalho\project.net11\obj\Debug\net8.0\project.net11.genruntimeconfig.cache
 C:\Users\w10\OneDrive\Área de Trabalho\project.net11\obj\Debug\net8.0\ref\project.net11.dll
+C:\Users\w10\OneDrive\Área de Trabalho\project.net11\obj\Debug\net8.0\project.net11.sourcelink.json
