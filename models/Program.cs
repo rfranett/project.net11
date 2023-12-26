@@ -12,5 +12,6 @@ calc.Dividir(2,2);
 calc.potencia(3,3);
 calc.Seno(30);
 calc.Coseno(30);
+calc.RaizQuadrada(9);
 
 

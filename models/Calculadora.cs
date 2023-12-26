@@ -58,6 +58,12 @@ namespace ExemploFundamentos.models
             Console.WriteLine($"Tangente de {angulo}° = {Math.Round(Tangente, 4)}");
         }
 
+        public void RaizQuadrada(double x)
+        {
+            double raiz =Math.Sqrt(x);
+            Console.WriteLine($"raiz Quadrada de {x} = {raiz}");
+        }
+
 
 
     
