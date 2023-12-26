@@ -1,4 +1,7 @@
-﻿using ExemploFundamentos.models;
+﻿using System;
+using ExemploFundamentos.models;{
+
+}
 
 Calculadora calc = new Calculadora();
 
@@ -9,4 +12,5 @@ calc.Dividir(2,2);
 calc.potencia(3,3);
 calc.Seno(30);
 calc.Coseno(30);
-calc.Tangente(30);
+
+
